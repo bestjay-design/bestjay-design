@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @bestjay-design
-- 👀 I’m interested in UXUI Design
-- 🌱 I’m currently learning UXUI Design
-- 💞️ I’m looking to collaborate on UXUI Design
+- 👋 Hi, I’m Bisola Tolutope Jongbo
+- 👀 I’m interested in Data Analytics
+- 🌱 I’m currently into Data Analytics
+- 💞️ I’m looking to collaborate onData Analytics
 - 📫 How to reach me bisolajongbo@gmail.com
 
 <!---
