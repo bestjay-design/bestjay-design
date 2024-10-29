@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Bisola Tolutope Jongbo
-- 👀 I’m interested in Data Analytics
+- 👀 I’m a Data Analytics
 - 🌱 I’m currently into Data Analytics
-- 💞️ I’m looking to collaborate onData Analytics
+- 💞️ I’m looking to collaborate on Data Analytics
 - 📫 How to reach me bisolajongbo@gmail.com
 
 <!---
